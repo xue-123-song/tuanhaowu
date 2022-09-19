@@ -1,0 +1,8 @@
+secKillTest\RedisTest.class
+com\example\tuanhaowu\Controller\UserControllerTest.class
+com\example\tuanhaowu\util\AuthUtilTest.class
+com\example\tuanhaowu\util\fileTest.class
+com\example\tuanhaowu\util\TimeUtilTest.class
+com\example\tuanhaowu\Controller\GroupControllerTest.class
+com\example\tuanhaowu\util\MsgUtil\MsgUtilTest.class
+com\example\tuanhaowu\util\SnowFlakeUtilTest.class

@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+jasypt:
+  encryptor:
+    password: G9w0BAQEFAASCBKYwggSiAgEAAoIBAQC
+    property:
+      prefix: "ENC@["
+      suffix: "]"
+getui:
+  domain: "https://restapi.getui.com/v2/"
+  appId: "9oH1vdkJbr7akxvwiAC2C2"
+  appKey: "Q0j1fg3SdI7m2BU1pKmws4"
+  masterSecret: "DX4Zw8cw7J660AQjiFbs47"
